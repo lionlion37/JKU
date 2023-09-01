@@ -1,0 +1,1 @@
+The focus of this course is mainly on applied Deep Learning and Reinforcement Learning methods in e.g. Bioinformatics, as well as on further AI fields like Reasoning and Perception. The goal of this course is put on pratical applications and getting an overview of newest AI approaches. All of the shown techniques will be taught in much greater detail later in the studies. 
