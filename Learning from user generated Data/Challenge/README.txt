@@ -1,5 +1,3 @@
-Name: Lion Dungl
-
 For this task I implemented ItemKNN using the jaccard distance (1 – jaccard score). Using this algorithm with the cosine distance yielded lower ndcg-scores.
 
 At first, I “trained” the model by calculating the pairwise jaccard distances of each item against each other item using slkearn’s ‘pairwise_distances’ with the metric ‘jaccard’. This resulted in a n_items x n_items distance matrix.
