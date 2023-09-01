@@ -1,0 +1,32 @@
+{
+  "log_path": "/log",
+  "input_dir": "/data",
+  "output_dir": "/validated_images/all",
+  "train_name": "all_images_train",
+  "test_name": "all_images_test",
+  "validation_name": "all_images_validation",
+  "general_name": "all_images",
+
+  "n_augmentations": 3,
+  "crops_per_image_train": 2,
+  "crops_per_image_test": 3,
+  "crops_per_image_val": 3,
+
+  "overwrite_augmentation": false,
+  "overwrite_normalization": false,
+  "overwrite_cropping": false,
+
+  "full_images": true,
+  "exp": false,
+
+  "train_model": true,
+  "test_all_models": false,
+
+  "learning_rate": 0.0001,
+  "n_updates": 1000,
+  "num_workers": 5,
+  "train_batch_size": 60,
+  "test_batch_size": 60,
+  "validation_batch_size": 60,
+  "validate_at": 50
+}
