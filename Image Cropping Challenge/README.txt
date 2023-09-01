@@ -1,3 +1,5 @@
+The goal of this challenge was to create a Machine Learning application that is able to fill out missing parts of images. 
+
 
 Preprocessing
 
